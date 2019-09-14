@@ -1,0 +1,6 @@
+body{
+    font-family:'Helvetica',sans-serif;
+    background-image:url("../images/nyc-skyline.jpg");
+    background-size:1920px 1080px;
+    scroll:auto;
+}
