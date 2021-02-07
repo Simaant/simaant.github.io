@@ -1171,14 +1171,14 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-outline-secondary {
-  color: #6c757d;
+  color: #000;
   background-color: transparent;
   background-image: none;
   border-color: #6c757d;
 }
 
 .btn-outline-secondary:hover {
-  color: #fff;
+  color: #000;
   background-color: #6c757d;
   border-color: #6c757d;
 }
